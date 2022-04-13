@@ -1,0 +1,3 @@
+# Glove and Squad files are too big to commit to repo
+*.txt
+*.json
